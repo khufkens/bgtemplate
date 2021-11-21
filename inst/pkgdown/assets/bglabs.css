@@ -204,6 +204,7 @@ footer .icon {
 
 footer h5 {
   text-transform: uppercase;
+  color: #fff;
   font-weight: 600;
   font-size: 13.5px;
   margin-bottom: 10px;
@@ -228,7 +229,7 @@ footer ul li a {
 
 footer a:hover {
   text-decoration: none;
-  color: white;
+  color: #fff;
 }
 
 footer a {
